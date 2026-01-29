@@ -1,0 +1,27 @@
+# Segredos e Configurações Locais (CRÍTICO)
+.env
+.env.local
+
+# Ambientes Virtuais (Nunca commite a venv!)
+venv/
+env/
+.venv/
+
+# Cache do Python (Arquivos compilados .pyc)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de Dados SQLite (Se for rodar local)
+*.db
+*.sqlite3
+data/
+chroma_db/
+
+# MacOS (Lixo do sistema)
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
