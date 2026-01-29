@@ -1,3 +1,3 @@
-# Análise de Riscos
+# Avaliação de Riscos
 
-Aplicação para análise de riscos em desenvolvimento.
+Aplicação para avaliação de riscos em desenvolvimento.
